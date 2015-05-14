@@ -1,0 +1,35 @@
+.body1 h1 {
+    color: #511634;
+}
+
+.body1 p {
+    color: #511634;
+}
+
+.body1 {
+    background-image: url("/style/pictures/ozadje1.jpg");
+    background-size: cover;
+}
+
+.stran1 {
+    margin-top: 200px;
+}
+
+.body2 h1 {
+    color: #FFCC00;
+}
+
+.body2 p {
+    color: #FFCC00;
+}
+
+.body2 {
+    background-image: url("/style/pictures/ozadje2.jpg");
+    background-size: cover;
+}
+
+.stran2 {
+    margin-top: 200px;
+}
+
+

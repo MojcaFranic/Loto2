@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Loterija_stevila</title>
+
+    <link rel="stylesheet" href="/style/css/style.css">
+</head>
+<body class="body2">
+
+    <div class="stran2">
+        <center><p>Vaše naključno izbrane številke:</p></center>
+        <br>
+        <br>
+	    <center>{% for item in stevila %}
+		<p>{{item}}</p>
+	    {% endfor %}</center>
+    </div>
+
+
+</body>
+</html>
